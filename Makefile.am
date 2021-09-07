@@ -19,6 +19,5 @@
 SUBDIRS =                       \
 ffmpeg                          \
 macro_vs_const                  \
-sizeof_data_types               \
 socket_can                      \
 unordered_map_map_and_if_else
