@@ -29,8 +29,6 @@ AC_SUBST([LDADD], [""])
 
 AC_CONFIG_FILES([                   \
     Makefile                        \
-    ffmpeg/Makefile                 \
-    socket_can/Makefile             \
-    unordered_map_map_and_if_else/Makefile])
+    socket_can/Makefile])
 
 AC_OUTPUT

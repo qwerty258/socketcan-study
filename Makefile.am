@@ -17,6 +17,4 @@
 #
 
 SUBDIRS =                       \
-ffmpeg                          \
-socket_can                      \
-unordered_map_map_and_if_else
+socket_can
